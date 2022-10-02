@@ -1,9 +1,4 @@
 package exercise.utils;
-
-/**
- * @author lyh
- *	对分数的处理
- */
 public class FractionOperationUtil {
 	
 	//化简分数
