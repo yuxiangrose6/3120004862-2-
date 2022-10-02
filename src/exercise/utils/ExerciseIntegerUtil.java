@@ -1,9 +1,4 @@
 package exercise.utils;
-
-/**
- * @author lyh
- *	全部为整数的题目
- */
 public class ExerciseIntegerUtil {
 	
 	/*
