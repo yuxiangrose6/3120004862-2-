@@ -6,11 +6,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.math.BigDecimal;
-
-/**
- * @author lyh
- * 将题目以及答案存储进文本文件中
- */
 public class ExerciseInsertUtil {
 	
 	private static String filename1="exercise.txt";
