@@ -1,9 +1,4 @@
 package exercise.utils;
-
-/**
- * @author lyh 
- * 全部为分数的题目
- */
 public class ExerciseFractionUtil {
 
 	// n为传入的题目数量,x为传入的数值范围
