@@ -1,7 +1,6 @@
 package exercise.utils;
 public class ExerciseFractionUtil {
-
-	// n为传入的题目数量,x为传入的数值范围
+        // n为传入的题目数量,x为传入的数值范围
 	public static void getExercise(int n, int x) {
 		// 结果
 		int sum = 0;
